@@ -2,7 +2,9 @@
 
 **A quick and dirty eml extractor for (thunderbird) mbox files**
 
-Copyright © 2020 Andrew Jackson (https://github.com/ceever ... ceever@web.de)
+(Partiularly for cases where emails are not displayed in Thunderbird anymore, but still contained in the mbox file!)
+
+Copyright © 2020 Andrew Jackson (https://github.com/ceever)
 
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
