@@ -1,6 +1,6 @@
 # mbox2eml_quick
 
-**A quick and dirty eml extractor for (thunderbird) mbox files (also finds hidden emails in mbox)**
+**A quick and dirty eml extractor for (thunderbird) mbox files, including hidden emails**
 
 (Partiularly for cases where emails are not displayed in Thunderbird anymore, but still contained in the mbox file!)
 
